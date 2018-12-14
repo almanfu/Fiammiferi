@@ -1,2 +1,2 @@
-# fiammiferi
-Semplice gioco in c!
+#Fiammiferi!
+Semplice gioco scritto in c!!
